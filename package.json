@@ -5,5 +5,10 @@
   "main": "index.js",
   "repository": "git@github.com:carstenmichel/asyncNodeSamples.git",
   "author": "Carsten Michel <carsten.michel@de.ibm.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.2",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7"
+  }
 }
