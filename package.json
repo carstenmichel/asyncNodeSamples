@@ -1,0 +1,9 @@
+{
+  "name": "asyncNodeSamples",
+  "version": "1.0.0",
+  "description": "Some sample async functions",
+  "main": "index.js",
+  "repository": "git@github.com:carstenmichel/asyncNodeSamples.git",
+  "author": "Carsten Michel <carsten.michel@de.ibm.com>",
+  "license": "MIT"
+}
